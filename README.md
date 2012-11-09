@@ -1,4 +1,4 @@
-metasploit-basic
-================
+metasploit
+==========
 
-Some (very) simple Metasploit modules.
+My Metasploit modules
